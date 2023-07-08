@@ -2,7 +2,7 @@
   "name": "yourpharmacy",
   "version": "1.0.0",
   "description": "Login/SignUp -Ashish,     \r HomePage-Pankaj,  \r Product page/Product Description Page-Tushar,  \r CartPage-Saif,  \r Adrress /payment Page-Ashutosh",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
