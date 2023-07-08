@@ -1,5 +1,15 @@
 {
    "address" : [
-    
+    {
+        "firstName": "Ashutosh",
+        "lastName": "Kumawat",
+        "number": "9785224671",
+        "pincode": "332404",
+        "address": "Kumawat Mohalla",
+        "city": "Sikar",
+        "state": "Rajasthan",
+        "locality": "Rinags",
+        "id": 2
+      }
    ]
 }
